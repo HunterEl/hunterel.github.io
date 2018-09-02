@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hunterel.github.io/post/first-post/</loc>
+    <loc>https://pequalsnp.io/post/first-post/</loc>
     <lastmod>2018-09-01T15:21:16-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hunterel.github.io/about/</loc>
+    <loc>https://pequalsnp.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://hunterel.github.io/links/</loc>
+    <loc>https://pequalsnp.io/links/</loc>
   </url>
   
   <url>
-    <loc>https://hunterel.github.io/categories/</loc>
+    <loc>https://pequalsnp.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hunterel.github.io/</loc>
-    <lastmod>2018-09-01T15:21:16-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hunterel.github.io/post/</loc>
+    <loc>https://pequalsnp.io/</loc>
     <lastmod>2018-09-01T15:21:16-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hunterel.github.io/tags/</loc>
+    <loc>https://pequalsnp.io/post/</loc>
+    <lastmod>2018-09-01T15:21:16-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pequalsnp.io/tags/</loc>
     <priority>0</priority>
   </url>
   
