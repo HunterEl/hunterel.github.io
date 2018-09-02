@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hunter Elbourn</title>
-    <link>https://www.example.com/</link>
+    <link>https://hunterel.github.io/</link>
     <description>Recent content on Hunter Elbourn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Sep 2018 15:21:16 -0700</lastBuildDate>
     
-	<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hunterel.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://www.example.com/post/first-post/</link>
+      <link>https://hunterel.github.io/post/first-post/</link>
       <pubDate>Sat, 01 Sep 2018 15:21:16 -0700</pubDate>
       
-      <guid>https://www.example.com/post/first-post/</guid>
+      <guid>https://hunterel.github.io/post/first-post/</guid>
       <description>Lists are always good in threes.
  xargs is a routinely underused *nix command Potatoes are a deceptively simply thing to weigh This is a good video:     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.example.com/about/</link>
+      <link>https://hunterel.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/about/</guid>
+      <guid>https://hunterel.github.io/about/</guid>
       <description> Software Engineer Los Angeles theme is from here  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.example.com/links/</link>
+      <link>https://hunterel.github.io/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/links/</guid>
+      <guid>https://hunterel.github.io/links/</guid>
       <description> some links I return to fairly regularly  Jonathan Blow talking about software quality Rob Pike talking about simplicity A machine which can, quite literally, make anything  </description>
     </item>
     
