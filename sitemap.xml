@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pequalsnp.io/posts/first-post/</loc>
-    <lastmod>2018-09-01T15:21:16-07:00</lastmod>
+    <loc>https://pequalsnp.io/posts/bake-off/</loc>
+    <lastmod>2020-10-04T21:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://pequalsnp.io/</loc>
-    <lastmod>2018-09-01T15:21:16-07:00</lastmod>
+    <lastmod>2020-10-04T21:32:05-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://pequalsnp.io/posts/</loc>
+    <lastmod>2020-10-04T21:32:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pequalsnp.io/posts/first-post/</loc>
     <lastmod>2018-09-01T15:21:16-07:00</lastmod>
   </url>
   
