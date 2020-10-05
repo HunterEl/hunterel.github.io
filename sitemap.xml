@@ -1,40 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pequalsnp.io/post/first-post/</loc>
+    <loc>https://pequalsnp.io/posts/first-post/</loc>
     <lastmod>2018-09-01T15:21:16-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pequalsnp.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pequalsnp.io/links/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pequalsnp.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pequalsnp.io/</loc>
     <lastmod>2018-09-01T15:21:16-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pequalsnp.io/post/</loc>
+    <loc>https://pequalsnp.io/posts/</loc>
     <lastmod>2018-09-01T15:21:16-07:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pequalsnp.io/posts/links/</loc>
+    <lastmod>2018-09-01T15:20:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pequalsnp.io/about/</loc>
+    <lastmod>2018-09-01T14:21:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pequalsnp.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://pequalsnp.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

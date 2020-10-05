@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hunter Elbourn</title>
@@ -8,6 +8,31 @@
     <language>en</language>
     
 	<atom:link href="https://pequalsnp.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://pequalsnp.io/posts/first-post/</link>
+      <pubDate>Sat, 01 Sep 2018 15:21:16 -0700</pubDate>
+      
+      <guid>https://pequalsnp.io/posts/first-post/</guid>
+      <description>Lists are always good in threes.
+ xargs is a routinely underused *nix command Potatoes are a deceptively simply thing to weigh This is a good video:     </description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Link Round-up</title>
+      <link>https://pequalsnp.io/posts/links/</link>
+      <pubDate>Sat, 01 Sep 2018 15:20:16 -0700</pubDate>
+      
+      <guid>https://pequalsnp.io/posts/links/</guid>
+      <description>Some links I return to fairly regularly:  Jonathan Blow talking about software quality Rob Pike talking about simplicity Balaji Srinivasan talking about opting out A machine which can, quite literally, make anything  </description>
+    </item>
+    
+    
     
     
   </channel>
